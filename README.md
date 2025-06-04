@@ -1,6 +1,6 @@
 # NextJS v13
 
-Uses Typescript. 
+Uses Typescript... 
 Does not use experimental `app` directory.
 The following table shows all demo features in this app.
 
